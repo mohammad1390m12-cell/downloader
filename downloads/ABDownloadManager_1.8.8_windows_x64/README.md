@@ -6,8 +6,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `ABDownloadManager_1.8.8_windows_x64.zip` |
-| **Total Size** | **2 parts** - **77.75 MB** |
+| **Original File** | `ABDownloadManager_1.8.8_windows_x64.exe` |
+| **Total Size** | **2 parts** - **64.16 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
